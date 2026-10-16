@@ -167,9 +167,9 @@
             <bpmn2:incoming>SequenceFlow_23</bpmn2:incoming>
             <bpmn2:outgoing>SequenceFlow_27</bpmn2:outgoing>
         </bpmn2:callActivity>
-        <bpmn2:startEvent id="StartEvent_22" name="Start Timer 1">
+        <bpmn2:startEvent id="StartEvent_22" name="Start Timer">
             <bpmn2:outgoing>SequenceFlow_23</bpmn2:outgoing>
-            <bpmn2:timerEventDefinition id="TimerEventDefinition_95012">
+            <bpmn2:timerEventDefinition id="TimerEventDefinition_115640">
                 <bpmn2:extensionElements>
                     <ifl:property>
                         <key>scheduleKey</key>
@@ -209,7 +209,7 @@
                 <dc:Bounds height="60.0" width="100.0" x="375.0" y="110.0"/>
             </bpmndi:BPMNShape>
             <bpmndi:BPMNShape bpmnElement="Participant_Process_1" id="BPMNShape_Participant_Process_1">
-                <dc:Bounds height="179.0" width="588.0" x="228.0" y="43.0"/>
+                <dc:Bounds height="208.0" width="656.0" x="201.0" y="48.0"/>
             </bpmndi:BPMNShape>
             <bpmndi:BPMNEdge bpmnElement="SequenceFlow_14" id="BPMNEdge_SequenceFlow_14" sourceElement="BPMNShape_CallActivity_13" targetElement="BPMNShape_EndEvent_2">
                 <di:waypoint x="635.0" xsi:type="dc:Point" y="140.0"/>

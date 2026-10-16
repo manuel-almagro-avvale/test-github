@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
 SAP-RuntimeProfile: iflmap
 Bundle-SymbolicName: com.avvale.migration.privatekey
-Bundle-Name: Private Key Downloader
+Bundle-Name: Private Key Downloader - prueba
 Bundle-Version: 1.0.7
 Bundle-ManifestVersion: 2
 Origin-Bundle-SymbolicName: com.avvale.migration.privatekey
